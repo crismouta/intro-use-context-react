@@ -1,0 +1,11 @@
+.footer {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    border: 1px black solid;
+}
+
+.footer-text {
+    margin: 2%;
+}
